@@ -1,6 +1,6 @@
 This work is based on Visual Genome dataset. The webpage of the project can be found here: https://visualgenome.org/ 
 
-You can get the objects.json data in .csv by first running parse_objects.py. The following notebooks are based on this format.
+You can get the objects.json data in .csv by first running parse_objects.py. The following notebooks (notebooks example folder) are based on this format.
 
 Our goal is to represent images based on their region descriptions in natural languages and apply this approach on a variety of tasks. 
 Region descriptions per image are encoded in vector space using state of the art pre-trained NLP models such as BERT sentence embeddings. 
